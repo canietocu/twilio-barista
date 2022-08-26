@@ -28,7 +28,7 @@ const ORDER_CANCELLED_MESSAGES = [
 
 // available values: product, orderNumber
 const ORDER_READY_MESSAGES = [
-  'Tu café ${product} está listo. Puedes ir a ${orderPickupLocation} y recogerlo ya mismo, pide tu café con el número de orden #${orderNumber}. Recuerda que puedes personalizar tu café con tu foto al momento de la entrega (aplica para Cappuccino y Mocca)',
+  'Tu ☕️ ${product} está listo. Puedes ir a ${orderPickupLocation} y recogerlo ya mismo para que no se enfríe. \nPide tu café con el número de orden #${orderNumber}. \nRecuerda que puedes personalizar tu café con tu foto al momento de la entrega (aplica para Cappuccino y Mocca): https://media.giphy.com/media/PhORbHTXStzsPljAsQ/giphy.gif',
 ];
 
 // available values:
