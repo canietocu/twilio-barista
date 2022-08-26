@@ -28,7 +28,7 @@ const ORDER_CANCELLED_MESSAGES = [
 
 // available values: product, orderNumber
 const ORDER_READY_MESSAGES = [
-  'Your ${product} is ready. You can skip the queue and collect it at ${orderPickupLocation} right away, ask for order number #${orderNumber}.',
+  'Tu café ${product} está listo. Puedes ir a ${orderPickupLocation} y recogerlo ya mismo, pide tu café con el número de orden #${orderNumber}. Recuerda que puedes personalizar tu café con tu foto al momento de la entrega (aplica para Cappuccino y Mocca)',
 ];
 
 // available values:
